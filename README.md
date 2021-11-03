@@ -1,4 +1,4 @@
-# Unlimited-Hotspot
+# Unlimited-Hotspot-PC
 
 Just with only one click you could use unlimited hotspot on your Laptop or PC
 
